@@ -1,2 +1,2 @@
-# CSP-example-project
+# CSP Example Project
 This is an example repository for my CSP project
